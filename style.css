@@ -11,6 +11,7 @@
 body {
     height: 100vh;
     background: linear-gradient(rgb(0, 64, 128), rgb(32, 111, 214));
+    background-attachment: fixed;
     overflow-y: scroll;
     overflow-x: hidden;
     color: white;
